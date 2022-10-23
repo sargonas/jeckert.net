@@ -128,7 +128,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Production layer between EA Global Online and various game development teams throughout EA and its partners. Responsible for making sure that the online needs of a game team, everywhere from digital publishing to online multiplayer components, are met by EA Online to successfully provide the online experience desired at launch and post-ship.
       - layout: right
-        title: Electronic Arts
+        #title: Electronic Arts
         sub_title: Digitial Publishing Manager - EA Online/Origin
         caption: Apr 2011 - Aug 2011
         link: https://origin.com
@@ -137,7 +137,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Oversaw documentation for internal publishing guidelines for EA’s online platform, Origin. Also responsible for assisting with the digital publishing of various EA titles on the Origin platform.
       - layout: right
-        title: Electronic Arts
+        #title: Electronic Arts
         sub_title: Compliance/Certification Project Lead
         caption: Nov 2009 - Mar 2011
         link: https://ea.com
@@ -146,7 +146,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Project Lead for select titles built by EA-Redwood Shores studios for Compliance and Certification approval. (Sims, Visceral studios, EA Partners, etc)
       - layout: right
-        title: Electronic Arts
+        #title: Electronic Arts
         sub_title: Operations Manager - Rupture/EA Online
         caption: Oct 2007 - Jun 2009
         link: https://ea.com
