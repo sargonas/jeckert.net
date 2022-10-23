@@ -59,26 +59,6 @@ about_content: | # this will include new lines to allow paragraphs
   For the last several years I have focised my efforts (and leveled up my skills) on helping startups grow from 10 to 100, focusing on the day to day business operations, building company culture, and establishing best practices and frameworks for success through the growing pains.
 
 content:
-  #- title: Projects # Title for the section
-    #layout: list # Type of content section (list/text)
-    #content:
-      #- layout: left
-        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        #title: Project name
-        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #link_text: Link Text
-        #additional_links:
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-            #icon: fab fa-github
-            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-            #icon: fab fa-github
-            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #quote: >
-          #Short overview of the project (optional)
-        #description: | # this will include new lines to allow paragraphs
-          #Description about the work on/with the project
   - title: Experience
     layout: list
     content:
@@ -199,6 +179,41 @@ content:
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Customer Service rep, Tech Support Agent and Abuse Administrator for webhost clients.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Rival Peak
+        link: https://rivalpeak.com/
+        #link_text: Link Text
+        #additional_links:
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          The first experimental, Massively Interactive Live Entertainment (MILE) reality show.
+        description: | # this will include new lines to allow paragraphs
+          <div style="text-align: center;"><img src="images/rivalpeak.jpg" width="400"></div>
+      - layout: right
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: League of Legends
+        link: https://leagueoflegends.com/
+        #link_text: Link Text
+        #additional_links:
+          #- title:  Riot API
+            #icon: fab fa-github
+            #url: https://developer.riotgames.com/
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          League of Legends, the Riot API, and various other related projects over 4 years.
+        description: | # this will include new lines to allow paragraphs
+          <div style="text-align: center;"><img src="images/lol.jpg" width="400"></div>
   #- title: Education
     #layout: list
     #content:
