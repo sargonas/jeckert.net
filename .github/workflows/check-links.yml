@@ -12,7 +12,7 @@ jobs:
       - name: Check all links
         uses: JustinBeckwith/linkinator-action@v1
         with:
-          paths: "_config.yaml"
+          paths: "_config.yml"
           timeout: 10000
           #linksToSkip: ""
           markdown: false
