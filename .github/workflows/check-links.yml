@@ -12,6 +12,6 @@ jobs:
       - name: Check all links
         uses: JustinBeckwith/linkinator-action@v1
         with:
-          paths: "_config.yml"
+          paths: "index.md"
           timeout: 10000
-          linksToSkip: " "
+          #linksToSkip: ""
