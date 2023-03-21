@@ -224,7 +224,7 @@ content:
       - layout: left
         border: weak
         title: | 
-          Star Wars: the old Republic #piped to a newline to allow for the colon
+          Star Wars: the old Republic
         link: https://swtor.com/
         quote: >
           A ground-breaking MMO set in the Star Wars universe, 10,000 years before the movies.
