@@ -212,63 +212,64 @@ content:
         quote: >
           Real, tangible rewards for your gaming accomplishments!
         description: |
-          <div style="text-align: center;"><img src="images/lol.jpg" width="400"></div>
+          <div style="text-align: center;"><img src="images/honored.png" width="400"></div>
       - layout: right
         border: weak
-        title: Battlefield 3
-        link: https://leagueoflegends.com/
+        title: Battlefield 3 & 4
+        link: https://battlefield.com/
         quote: >
-          League of Legends, the Riot API, and various other related projects over 4 years.
+          The preeminent, most realistic, modern FPS shooter franchise.
         description: |
-          <div style="text-align: center;"><img src="images/lol.jpg" width="400"></div>
+          <div style="text-align: center;"><img src="images/battlefield-3.jpg" width="400"></div>
       - layout: left
         border: weak
-        title: Star Wars the old Republic
-        link: https://leagueoflegends.com/
+        title: | 
+          Star Wars: the old Republic #piped to a newline to allow for the colon
+        link: https://swtor.com/
         quote: >
-          League of Legends, the Riot API, and various other related projects over 4 years.
+          A ground-breaking MMO set in the Star Wars universe, 10,000 years before the movies.
         description: |
-          <div style="text-align: center;"><img src="images/lol.jpg" width="400"></div>
+          <div style="text-align: center;"><img src="images/swtor.jpg" width="400"></div>
       - layout: right
         border: weak
         title: Origin
-        link: https://leagueoflegends.com/
+        link: https://origin.com/
         quote: >
-          League of Legends, the Riot API, and various other related projects over 4 years.
+          EA's digital distribution platform from 2012-2022.
         description: |
-          <div style="text-align: center;"><img src="images/lol.jpg" width="400"></div>
+          <div style="text-align: center;"><img src="images/origin.png" width="400"></div>
       - layout: left
         border: weak
         title: Dead Space 2
-        link: https://leagueoflegends.com/
+        link: https://deadspace.com/
         quote: >
-          League of Legends, the Riot API, and various other related projects over 4 years.
+          Survival horror game by Visceral Games, a studio within EA.
         description: |
-          <div style="text-align: center;"><img src="images/lol.jpg" width="400"></div>
+          <div style="text-align: center;"><img src="images/deadspace2.jpg" width="400"></div>
       - layout: right
         border: weak
         title: Rockband 3
-        link: https://leagueoflegends.com/
+        link: https://en.wikipedia.org/wiki/Rock_Band_3
         quote: >
-          League of Legends, the Riot API, and various other related projects over 4 years.
+          2010 rythim game sensation, created by Harmonix and published by EA.
         description: |
-          <div style="text-align: center;"><img src="images/lol.jpg" width="400"></div>
+          <div style="text-align: center;"><img src="images/rockband3.webp" width="400"></div>
       - layout: left
         border: weak
         title: Rupture
-        link: https://leagueoflegends.com/
+        link: https://en.wikipedia.org/wiki/Rupture_(social_networking)
         quote: >
-          League of Legends, the Riot API, and various other related projects over 4 years.
+          Social networking platform foudned by Shawn Fanning, designed to share gamers' individual profiles to a communal space.
         description: |
-          <div style="text-align: center;"><img src="images/lol.jpg" width="400"></div>
+          <div style="text-align: center;"><img src="images/rupture.jpg" width="400"></div>
       - layout: right
         border: weak
-        title: The World Series of Videogames
-        link: https://leagueoflegends.com/
+        title: The WSVG
+        link: https://en.wikipedia.org/wiki/World_Series_of_Video_Games
         quote: >
-          League of Legends, the Riot API, and various other related projects over 4 years.
+          An annual international esports competition, with competitions in six different games held around the world culminating on a finals brodacast on primetime TV. 
         description: |
-          <div style="text-align: center;"><img src="images/lol.jpg" width="400"></div>
+          <div style="text-align: center;"><img src="images/wsvg.jpg" width="400"></div>
   #- title: Education
     #layout: list
     #content:
