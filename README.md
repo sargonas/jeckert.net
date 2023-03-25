@@ -16,10 +16,10 @@ Download and extract the following zip into the git repository you have just cre
 
 ### Step 2 - Push it
 Commit and push the resume template to github
-```
-$ git add --all
-$ git commit -m "Initial resume setup"
-$ git push -u origin master
+```sh
+git add --all
+git commit -m "Initial resume setup"
+git push -u origin master
 ```
 ### Step 5 - Deploy it
 Deploy it to your preferred place, like github pages, or in my case for now CloudFlare pages.
@@ -41,7 +41,7 @@ Content will contain an array of sections, there are currently 2 types of layout
 **list** is a the standard layout that is used for things like *Education* and *Experience*.
 
 Below is a the full list of content options.
-```
+```yml
 content:
   - title: Section Name
     layout: list (options: list, text)
@@ -75,7 +75,7 @@ If you would like to add more than the predefined social links in the config fil
 
 #### Dark Mode
 Dark mode is configured via `_config.yml`  
-```
+```yml
 darkmode: true (options: true, false, never)
 ```
 When dark mode is `true` the site will show the dark theme for everyone  
