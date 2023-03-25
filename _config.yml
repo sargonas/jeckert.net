@@ -63,7 +63,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: Chia Network, Inc
+        title: Chia Network Inc.
         sub_title: VP of Ecosystem Operations
         caption: May 2021 - present
         link: https://chia.net
@@ -93,7 +93,7 @@ content:
         title: Honored
         sub_title: Co-Founder & CEO
         caption: Jun 2012 - Jan 2014
-        link: https://chia.net
+        link: https://gethonored.com
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -186,6 +186,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Rival Peak
+        sub_title: Genvid
         link: https://rivalpeak.com/
         #link_text: Link Text
         #additional_links:
@@ -193,15 +194,17 @@ content:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
+        #quote: >
+        caption: >
           The first experimental, Massively Interactive Live Entertainment (MILE) reality show.
         description: |
           <div style="text-align: center;"><img src="images/rivalpeak.jpg" width="400"></div>
-      - layout: right
+      - layout: left
         border: weak
         title: League of Legends
+        sub_title: Riot Games
         link: https://leagueoflegends.com/
-        quote: >
+        caption: >
           League of Legends, the Riot API, and various other related projects over 4 years.
         description: |
           <div style="text-align: center;"><img src="images/lol.jpg" width="400"></div>
@@ -209,15 +212,16 @@ content:
         border: weak
         title: Honored
         link: https://gethonored.com/
-        quote: >
+        caption: >
           Real, tangible rewards for your gaming accomplishments!
         description: |
           <div style="text-align: center;"><img src="images/honored.png" width="400"></div>
-      - layout: right
+      - layout: left
         border: weak
         title: Battlefield 3 & 4
+        sub_title: EA Games
         link: https://battlefield.com/
-        quote: >
+        caption: >
           The preeminent, most realistic, modern FPS shooter franchise.
         description: |
           <div style="text-align: center;"><img src="images/battlefield-3.jpg" width="400"></div>
@@ -225,48 +229,53 @@ content:
         border: weak
         title: | 
           Star Wars: the old Republic
+        sub_title: EA Games
         link: https://swtor.com/
-        quote: >
+        caption: >
           A ground-breaking MMO set in the Star Wars universe, 10,000 years before the movies.
         description: |
           <div style="text-align: center;"><img src="images/swtor.jpg" width="400"></div>
-      - layout: right
+      - layout: left
         border: weak
         title: Origin
+        sub_title: EA Games
         link: https://origin.com/
-        quote: >
+        caption: >
           EA's digital distribution platform from 2012-2022.
         description: |
           <div style="text-align: center;"><img src="images/origin.png" width="400"></div>
       - layout: left
         border: weak
         title: Dead Space 2
+        sub_title: EA Games
         link: https://deadspace.com/
-        quote: >
+        caption: >
           Survival horror game by Visceral Games, a studio within EA.
         description: |
           <div style="text-align: center;"><img src="images/deadspace2.jpg" width="400"></div>
-      - layout: right
+      - layout: left
         border: weak
         title: Rockband 3
+        sub_title: EA Games
         link: https://en.wikipedia.org/wiki/Rock_Band_3
-        quote: >
+        caption: >
           2010 rythim game sensation, created by Harmonix and published by EA.
         description: |
           <div style="text-align: center;"><img src="images/rockband3.webp" width="400"></div>
       - layout: left
         border: weak
         title: Rupture
+        sub_title: EA Games
         link: https://en.wikipedia.org/wiki/Rupture_(social_networking)
-        quote: >
+        caption: >
           Social networking platform foudned by Shawn Fanning, designed to share gamers' individual profiles to a communal space.
         description: |
           <div style="text-align: center;"><img src="images/rupture.jpg" width="400"></div>
-      - layout: right
+      - layout: left
         border: weak
         title: The WSVG
         link: https://en.wikipedia.org/wiki/World_Series_of_Video_Games
-        quote: >
+        caption: >
           An annual international esports competition, with competitions in six different games held around the world culminating on a finals brodacast on primetime TV. 
         description: |
           <div style="text-align: center;"><img src="images/wsvg.jpg" width="400"></div>
