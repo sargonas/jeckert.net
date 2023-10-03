@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   A decade and a half experience spanning across many disciplines, including Operations, BizDev/Strategic Partnerships, Project Management, Developer Relations, Live Operations/IT, and Customer Service.
 
-  For the last several years I have focised my efforts (and leveled up my skills) on helping startups grow from 10 to 100, focusing on the day to day business operations, building company culture, and establishing best practices and frameworks for success through the growing pains.
+  For the last several years I have focused my efforts (and leveled up my skills) on helping startups grow from 10 to 100, focusing on the day to day business operations, building company culture, and establishing best practices and frameworks for success through the growing pains.
 
 content:
   - title: Experience
@@ -178,7 +178,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Customer Service rep, Tech Support Agent and Abuse Administrator for webhost clients.
+          Customer Service rep, Tech Support, and Abuse Administrator for an industry leading webhost.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -227,7 +227,7 @@ content:
           <div style="text-align: center;"><img src="images/battlefield-3.jpg" width="400"></div>
       - layout: left
         border: weak
-        title: | 
+        title: |
           Star Wars: the old Republic
         sub_title: EA Games
         link: https://swtor.com/
@@ -268,7 +268,7 @@ content:
         sub_title: EA Games
         link: https://en.wikipedia.org/wiki/Rupture_(social_networking)
         caption: >
-          Social networking platform foudned by Shawn Fanning, designed to share gamers' individual profiles to a communal space.
+          Social networking platform founded by Shawn Fanning (founder of Napster), designed to share gamers' individual profiles to a communal space.
         description: |
           <div style="text-align: center;"><img src="images/rupture.jpg" width="400"></div>
       - layout: left
@@ -276,7 +276,7 @@ content:
         title: The WSVG
         link: https://en.wikipedia.org/wiki/World_Series_of_Video_Games
         caption: >
-          An annual international esports competition, with competitions in six different games held around the world culminating on a finals brodacast on primetime TV. 
+          An annual international esports competition, with competitions in six different games held around the world culminating in a finals brodacast on primetime TV. 
         description: |
           <div style="text-align: center;"><img src="images/wsvg.jpg" width="400"></div>
   #- title: Education
