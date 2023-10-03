@@ -65,12 +65,12 @@ content:
       - layout: right
         title: Chia Network Inc.
         sub_title: VP of Ecosystem Operations
-        caption: May 2021 - present
+        caption: May 2021 - October 2023
         link: https://chia.net
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Leading the Developer Relations, Support, and various internal Operations initiatives, building the respective teams from the ground up.
+          To quote a colleague: "Wrangler of cats, organizer of chaos, sharer of bad news, culture warrior/dissident, and mitigator of foot guns". More precisely, I crafted and defined Chia’s Ecosystem team, and lead strategy and execution from the ground up across Developer Relations, Corporate Communications, Community, Support, Thought Leadership, Events, and Corporate Culture. I was also a member of Chia’s executive leadership team, tasked with shaping company-wide strategy and plans.
       - layout: right
         title: Genvid Technologies
         sub_title: Director of Partnerships & Head of LA Office
@@ -79,7 +79,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          A man of many hats, I oversaw the day to day operations of our offices throughout CA, Strategic Partnerships efforts, and various random minutiae to keep the gears turning for the company as we grew from 12 to 60.
+          A man of many hats, I oversaw the day to day operations (as well as the building out of) of our offices throughout CA, our Strategic Partnerships efforts, and various random minutiae to keep the gears turning for the company as we grew from 12 to 100 over 3 years.
       - layout: right
         title: Riot Games
         sub_title: Director of Developer Relations/3rd Party Ecosystem Manager
@@ -88,7 +88,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Managing the Developer Relations Team, handing most public-facing aspects of Riot’s new API for League of Legends as well as various other 3rd party partnerships. Our team drives community engagement with the API, fosters and maintains partnerships with third-party developers, and works with the API dev team to guide it’s further development with player-focus in mind. If you want to find out more about the API itself, check out the dev portal at developer.riotgames.com!
+          Managing the Developer Relations Team, handling public-facing aspects of Riot’s API for League of Legends as well as various other 3rd party partnerships. Our team drove community engagement with the API, fostered and maintained partnerships with third-party developers, and worked with the API development team to guide it’s further development with player-focus in mind. I liked to say to people "If it is external to Riot Games, and has direct impact on our players/game without being related to esports, then it's somewhere in my purview."
       - layout: right
         title: Honored
         sub_title: Co-Founder & CEO
@@ -97,7 +97,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Honored provides tangible rewards for your proudest accomplishments in gaming in the form of embroidered patches for accomplishments both in-game and within the community!
+          Honored tried to provided tangible rewards for your proudest accomplishments in gaming, in the form of embroidered patches and other products to celebrate your accomplishments both in-game and within the gaming community.
       - layout: right
         title: Electronic Arts
         sub_title: DevRel Account Manager - EA Online
