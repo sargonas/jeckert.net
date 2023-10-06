@@ -279,6 +279,26 @@ content:
           An annual international esports competition, with competitions in six different games held around the world culminating in a finals brodacast on primetime TV. 
         description: |
           <div style="text-align: center;"><img src="images/wsvg.jpg" width="400"></div>
+  - title: Media
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: INTERVIEW - J. Eckert of Genvid
+        sub_title: The Esports Observer
+        link: https://archive.esportsobserver.com/interview-j-eckert-genvid/
+        link_text: https://esportsobserver.com/interview-j-eckert-genvid/
+        #additional_links:
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: >
+        caption: >
+          INTERVIEW: J. Eckert, Genvid – “We’re Trying to Give Studios Tools That Redefine What It Means to Have a Game Streamed”
+        description: |
+          <div style="text-align: center;"><img src="images/eso-article.png" width="400"></div>
   #- title: Education
     #layout: list
     #content:
