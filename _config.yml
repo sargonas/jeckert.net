@@ -14,6 +14,8 @@ email: contact@jeckert.net
 # phone_title: Phone (Phone title override)
 website: https://me.sargonas.com
 website_title: Links
+resume: https://jeckert.net/resume
+#resume_title: Resume (Resume title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
