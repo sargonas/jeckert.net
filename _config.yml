@@ -1,6 +1,6 @@
 # Site
 #repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -46,13 +46,13 @@ linkedin_username: jeckert
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-google_analytics: "G-Y5YP6KRQKP"
+# google_analytics: "G-Y5YP6KRQKP"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  16 Year veteran of the Video Game Industry, a long time gamer, hobbyist photographer, and avid maker... as well as Board Member for the Non-Profit running the Las Vegas Hackerspace/Makerspace SYN Shop.
+  16 Year veteran of the Video Game Industry, a long time gamer, hobbyist photographer, and avid maker... as well as Board Member for the Non-Profit running the Las Vegas Hackerspace/Makerspace [SYN Shop](https://synshop.org).
 
   A decade and a half experience spanning across many disciplines, including Operations, BizDev/Strategic Partnerships, Project Management, Developer Relations, Live Operations/IT, and Customer Service.
 
@@ -71,6 +71,7 @@ content:
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           To quote a colleague: "Wrangler of cats, organizer of chaos, sharer of bad news, culture warrior/dissident, and mitigator of foot guns". More precisely, I crafted and defined Chia’s Ecosystem team, and lead strategy and execution from the ground up across Developer Relations, Corporate Communications, Community, Support, Thought Leadership, Events, and Corporate Culture. I was also a member of Chia’s executive leadership team, tasked with shaping company-wide strategy and plans.
+        icon: fab fa-github  
       - layout: right
         title: Genvid Technologies
         sub_title: Director of Partnerships & Head of LA Office
