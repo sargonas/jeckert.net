@@ -72,7 +72,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          To quote a colleague: "Wrangler of cats, organizer of chaos, sharer of bad news, culture warrior/dissident, and mitigator of foot guns". More precisely, I crafted and defined Chia’s Ecosystem team, and lead strategy and execution from the ground up across Developer Relations, Corporate Communications, Community, Support, Thought Leadership, Events, and Corporate Culture. I was also a member of Chia’s executive leadership team, tasked with shaping company-wide strategy and plans.
+          To quote a colleague: "Wrangler of cats, organizer of chaos, sharer of bad news, culture warrior/dissident, and mitigator of foot guns". More precisely, I crafted and defined Chia’s Ecosystem team, leading strategy and execution from the ground up across Developer Relations, Corporate Communications, User Community & Support. Additionaly a contributor to our thought Leadership, handled our internal Events, and was an ardent champion (or thorn in the side, depending on your point of view) of our Corporate Culture. I was also a member of Chia’s executive leadership team, shaping company-wide strategy and plans.
         icon: fab fa-github  
       - layout: right
         title: Genvid Technologies
@@ -82,7 +82,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          A man of many hats, I oversaw the day to day operations of our offices throughout California, as well as Strategic Partnerships efforts, and various random minutiae to keep the gears turning for the company throughout our various US offices during the exciting and challenging times of scaling the company from 15 people to 100+. No trivial task, as I had to navigate the era of COVID in real time, taking us from an in-person company to fully remote, without the luxury of the many-years of learning we now have to lean on.
+          As the overused saying goes, a man of many hats (as is common in early stage startups). I oversaw the day to day operations of our offices throughout California, as well as Strategic Partnerships efforts, and various random minutiae to keep the gears turning for the company throughout our various US offices during the exciting and challenging times of scaling the company from 15 people to 100. No trivial task, as we had to navigate the era of COVID in real time, as I took us from a 10 person, in-person regional office, to a fully remote regional organizaiton of dozens, without the luxury of the many-years of learning we now have to lean on.
       - layout: right
         title: Riot Games
         sub_title: Director of Developer Relations/3rd Party Ecosystem Manager
@@ -91,7 +91,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Managing the Developer Relations Team, handling public-facing aspects of Riot’s API for League of Legends as well as various other 3rd party partnerships. Our team drove community engagement with the API, fostered and maintained partnerships with third-party developers, and worked with the API development team to guide it’s further development with player-focus in mind. I liked to say to people "If it is external to Riot Games, and has direct impact on our players/game without being related to esports, then it's somewhere in my purview."
+          Managing the Developer Relations Team, handling public-facing aspects of Riot’s API for League of Legends and (at the time) unannounced future titles, as well as various other 3rd party partnerships. Our team drove community engagement with the API, fostered and maintained partnerships with third-party developers, and worked with the API development team to guide it’s further development with player-focus in mind. I often said to people "If it is external to Riot Games, and has direct impact on our players/game without being related to esports, then it's somewhere on a spectrum of relevancy to my team(s)."
       - layout: right
         title: Honored
         sub_title: Co-Founder & CEO
