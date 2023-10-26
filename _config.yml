@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: J. Eckert
-title: Gaming and Web3 Operations Executive
+title: Gaming and Web3 Ecosystem and Operations Executive
 email: contact@jeckert.net
 # email_title: Email (Email title override)
 #phone:
@@ -56,7 +56,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   16 Year veteran of the Video Game Industry, a long time gamer, hobbyist photographer, and avid maker... as well as Board Member for the Non-Profit running the Las Vegas Hackerspace/Makerspace [SYN Shop](https://synshop.org).
 
-  A decade and a half experience spanning across many disciplines, including Operations, BizDev/Strategic Partnerships, Project Management, Developer Relations, Live Operations/IT, and Customer Service.
+  A decade and a half experience spanning across many disciplines, including Operations, BizDev/Strategic Partnerships, Project Management, Developer Relations, Live Operations/IT, and Customer Service. (And I am versed *just* well enough in coding to be dangerous to myself!)
 
   For the last several years I have focused my efforts (and leveled up my skills) on helping startups grow from 10 to 100, focusing on the day-to-day business operations, building company culture, and establishing best practices and frameworks for success through the growing pains.
 
@@ -64,8 +64,8 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Chia Network Inc.
+      - layout: left
+        title: Chia Network
         sub_title: VP of Ecosystem Operations
         caption: May 2021 - October 2023
         link: https://chia.net
@@ -74,7 +74,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           To quote a colleague: "Wrangler of cats, organizer of chaos, sharer of bad news, culture warrior/dissident, and mitigator of foot guns". More precisely, I crafted and defined Chia’s Ecosystem team, leading strategy and execution from the ground up across Developer Relations, Corporate Communications, User Community & Support. Additionaly a contributor to our thought Leadership, handled our internal Events, and was an ardent champion (or thorn in the side, depending on your point of view) of our Corporate Culture. I was also a member of Chia’s executive leadership team, shaping company-wide strategy and plans.
         icon: fab fa-github  
-      - layout: right
+      - layout: left
         title: Genvid Technologies
         sub_title: Director of Partnerships & Head of LA Office
         caption: Apr 2018 - May 2021
@@ -82,17 +82,17 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          As the overused saying goes, a man of many hats (as is common in early stage startups). I oversaw the day to day operations of our offices throughout California, as well as Strategic Partnerships efforts, and various random minutiae to keep the gears turning for the company throughout our various US offices during the exciting and challenging times of scaling the company from 15 people to 100. No trivial task, as we had to navigate the era of COVID in real time, as I took us from a 10 person, in-person regional office, to a fully remote regional organizaiton of dozens, without the luxury of the many-years of learning we now have to lean on.
-      - layout: right
+          As the overused saying goes, a man of many hats (as is common in early stage startups). Oversaw the day to day operations of our offices throughout California, as well as Strategic Partnerships efforts, and various random minutiae to keep the gears turning for the company throughout our various US offices during the exciting and challenging times of scaling the company from 15 people to 100. No trivial task, as we had to navigate the era of COVID in real time, as I took us from a 10 person, in-person regional office, to a fully remote regional organizaiton of dozens, without the luxury of the many-years of learning we now have to lean on.
+      - layout: left
         title: Riot Games
-        sub_title: Director of Developer Relations/3rd Party Ecosystem Manager
+        sub_title: Director of Developer Relations/3rd Party Ecosystem
         caption: Jan 2014 - Apr 2018
         link: https://riotgames.com
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Managing the Developer Relations Team, handling public-facing aspects of Riot’s API for League of Legends and (at the time) unannounced future titles, as well as various other 3rd party partnerships. Our team drove community engagement with the API, fostered and maintained partnerships with third-party developers, and worked with the API development team to guide it’s further development with player-focus in mind. I often said to people "If it is external to Riot Games, and has direct impact on our players/game without being related to esports, then it's somewhere on a spectrum of relevancy to my team(s)."
-      - layout: right
+      - layout: left
         title: Honored
         sub_title: Co-Founder & CEO
         caption: Jun 2012 - Jan 2014
@@ -100,8 +100,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Honored tried to provided tangible rewards for your proudest accomplishments in gaming, in the form of embroidered patches and other products to celebrate your accomplishments both in-game and within the gaming community.
-      - layout: right
+          Honored tried to provided tangible rewards for your proudest accomplishments in gaming, in the form of embroidered patches and other products to celebrate your accomplishments both in-game and within the greater gaming community. Pulling in data across various gaming platforms of player activity, you could earn badges and other rewards, as well as publisher-branded ones via partnerships. While ultimately unsucesfull, it's exciting to see that 10 years later this vision live on in success with projects like the Bungie Rewards merchandise program for Destiny 2.
         title: Electronic Arts
         sub_title: DevRel Account Manager - EA Online
         caption: Aug 2011 - Apr 2012
@@ -110,7 +109,7 @@ content:
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Production layer between EA Global Online and various game development teams throughout EA and its partners. Responsible for making sure that the online needs of a game team, everywhere from digital publishing to online multiplayer components, are met by EA Online to successfully provide the online experience desired at launch and post-ship.
-      - layout: right
+      - layout: left
         #title: Electronic Arts
         sub_title: Digitial Publishing Manager - EA Online/Origin
         caption: Apr 2011 - Aug 2011
@@ -119,7 +118,7 @@ content:
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Oversaw documentation for internal publishing guidelines for EA’s online platform, Origin. Also responsible for assisting with the digital publishing of various EA titles on the Origin platform.
-      - layout: right
+      - layout: left
         #title: Electronic Arts
         sub_title: Compliance/Certification Project Lead
         caption: Nov 2009 - Mar 2011
@@ -128,7 +127,7 @@ content:
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Project Lead for select titles built by EA-Redwood Shores studios for Compliance and Certification approval. (Sims, Visceral studios, EA Partners, etc)
-      - layout: right
+      - layout: left
         #title: Electronic Arts
         sub_title: Operations Manager - Rupture/EA Online
         caption: Oct 2007 - Jun 2009
@@ -137,8 +136,8 @@ content:
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
            Managed IT systems and general Ops & DevOps for the EA Atlanta and later Rupture (EA SF) divisions, handling widows and linux systems, general networking, various server and DB applications, and project management and production coordination.
-      - layout: right
-        title: Super Computer International
+      - layout: left
+        title: Super Computer International (now EA)
         sub_title: Operations Manager
         caption: Jun 2006 - October 2007
         link: https://playlinc.com
@@ -146,7 +145,7 @@ content:
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Held dual roles (as one does in a 12 person startup) as IT administrator/Ops manager, as well as community management for the development of Playlinc. Continued on under EA after our acquisition by them in October 2007
-      - layout: right
+      - layout: left
         title: World Series of Video Games
         sub_title: Network administrator
         caption: 2005 - 2007
@@ -155,7 +154,7 @@ content:
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           One of a team of Network Administrators for the WSVG events held around the world from 2005 to 2007. Specialized in putting together an enterprise class network for competitive gaming setupsand BYOC lans in only a matter of a few days for each event.
-      - layout: right
+      - layout: left
         title: ASUS Technologies
         sub_title: Support Manager
         caption: Jun 2004 - Jun 2006
@@ -164,7 +163,7 @@ content:
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Support tech and systems testing/diagnostic specialist. Also specialized in Video hardware trouble shooting and benchmark testing.
-      - layout: right
+      - layout: left
         title: Kastle Systems
         sub_title: Systems Administrator
         caption: Jul 2003 - Jun 2004
@@ -173,7 +172,7 @@ content:
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Operations Programmer, office tech support and Systems Administrator for the Chicago regional office.
-      - layout: right
+      - layout: left
         title: Express Technologies (Now Hosting.com)
         sub_title: Customer Service Manager
         caption: Mar 2002 - Jul 2003
@@ -302,6 +301,23 @@ content:
           INTERVIEW: J. Eckert, Genvid – “We’re Trying to Give Studios Tools That Redefine What It Means to Have a Game Streamed”
         description: |
           <div style="text-align: center;"><img src="images/eso-article.png" width="400"></div>
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Brewing Up A Conversation Podcast - J. Eckert
+        sub_title: 90 Minute podcast interview from summer of 2023
+        link: https://www.youtube.com/watch?v=SuVdQ-_uBo4
+        link_text: https://www.youtube.com/watch?v=SuVdQ-_uBo4
+        #additional_links:
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: >
+        caption: >
+          INTERVIEW: J. Eckert - "Life is a compounding journey"”
+        description: |
+          <div style="text-align: center;"><img src="images/brewing.png" width="400"></div>
   #- title: Education
     #layout: list
     #content:
