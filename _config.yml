@@ -72,7 +72,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          To quote a colleague: "Wrangler of cats, organizer of chaos, sharer of bad news, culture warrior/dissident, and mitigator of foot guns". More precisely, I crafted and defined Chia’s Ecosystem team, leading strategy and execution from the ground up across Developer Relations, Corporate Communications, User Community & Support. Additionaly a contributor to our thought Leadership, handled our internal Events, and was an ardent champion (or thorn in the side, depending on your point of view) of our Corporate Culture. I was also a member of Chia’s executive leadership team, shaping company-wide strategy and plans.
+          To quote a colleague: "Wrangler of cats, organizer of chaos, sharer of bad news, culture warrior/dissident, and mitigator of foot guns". More precisely, I crafted and defined Chia’s Ecosystem team, leading strategy and execution from the ground up across Developer Relations, Corporate Communications, User Community & Support. Additionaly a contributor to our thought Leadership, handled our internal Events, and was an ardent champion (or thorn in the side, depending on your point of view) of our Corporate Culture. I was also a member of Chia’s executive leadership team, shaping company-wide strategy and plans on our path to IPO. Sadly, an unforseen banking collapse in 2023 cut the journey short for I and the majority of my colleages.
         icon: fab fa-github  
       - layout: left
         title: Genvid Technologies
@@ -82,7 +82,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          As the overused saying goes, a man of many hats (as is common in early stage startups). Oversaw the day to day operations of our offices throughout California, as well as Strategic Partnerships efforts, and various random minutiae to keep the gears turning for the company throughout our various US offices during the exciting and challenging times of scaling the company from 15 people to 100. No trivial task, as we had to navigate the era of COVID in real time, as I took us from a 10 person, in-person regional office, to a fully remote regional organizaiton of dozens, without the luxury of the many-years of learning we now have to lean on.
+          As the overused saying goes, a man of many hats (as is common in early stage startups). Oversaw the day to day operations of our offices throughout California, as well as Strategic Partnerships efforts, and various random minutiae to keep the gears turning for the company throughout our various US offices during the exciting and challenging times of scaling the company from 15 people to 100. No trivial task, as we had to navigate the era of COVID in real time, as I lead the charge in taking us from a 5 employee, in-person regional outpost, to a fully remote regional organizaiton of several dozen, without the luxury of the many-years of learning we now have to lean on. Looking back retrospectively, I would have advocated for the now far more common "Chief of Staff" title that was relatively unknown at those times to best reflect my efforts.
       - layout: left
         title: Riot Games
         sub_title: Director of Developer Relations/3rd Party Ecosystem
@@ -126,7 +126,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Project Lead for select titles built by EA-Redwood Shores studios for Compliance and Certification approval. (Sims, Visceral studios, EA Partners, etc)
+          Project Lead for select titles built by EA-Redwood Shores studios for Compliance and Certification approval. (Sims, Visceral studios, EA Partners, etc). I take great pride is my near-perfect 1st Pass success rate at the big 3, *including* the famously high bar set by Nintendo!
       - layout: left
         #title: Electronic Arts
         sub_title: Operations Manager - Rupture/EA Online
