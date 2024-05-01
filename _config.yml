@@ -54,11 +54,11 @@ linkedin_username: jeckert
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  18 Year veteran of the Video Game Industry, a long time gamer, hobbyist photographer, and avid maker... as well as Board Member for the Non-Profit running the Las Vegas Hackerspace/Makerspace [SYN Shop](https://synshop.org).
+  J. (short for James-Richard) is an 18-year veteran of the Video Game Industry, a long time gamer, hobbyist photographer, and avid maker... as well as Board Member for a Non-Profit running the Las Vegas Hackerspace/Makerspace [SYN Shop](https://synshop.org).
 
-  A decade and a half experience spanning across many disciplines, including Operations, BizDev/Strategic Partnerships, Project Management, Developer Relations, Live Operations/IT, and Customer Service. (And I am versed *just* well enough in coding to be dangerous to myself!)
+  A decade and a half experience spanning across many disciplines, including Operations, BizDev/Strategic Partnerships, Project Management, Developer Relations, Live Operations/IT, and Customer Service. (And versed *just* well enough in coding to be dangerous to himself!)
 
-  For the last several years I have focused my efforts (and leveled up my skills) on helping startups grow from 10 to 100, focusing on the day-to-day business operations, building company culture, and establishing best practices and frameworks for success through the growing pains.
+  For the last several years he's have focused his efforts on helping startups in the "growing from 10 to 100 people in size" phase, focusing on the day-to-day business operations, building company culture, and establishing best practices and frameworks for success through the growing pains.
 
 content:
   - title: Experience
@@ -72,12 +72,12 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Advisor to both the Accellerator Program, as well as participating game studios funded by the program, and manager of Xsolla Funding's Rapid Rounds in the US.
+          Advisor to both the Accellerator Program as well as participating game studios funded by the program, and host of Xsolla Funding's Rapid Rounds in the US.
         icon: fab fa-github
       - layout: left
         title: Zero IT Lab
         sub_title: Business Development & Sales freelancer
-        caption: March 2024 - October Present
+        caption: March 2024 - Present
         link: https://zeroitlab.com
         #quote: >
           #Short description of the company (optional)
