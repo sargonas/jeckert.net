@@ -353,23 +353,6 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: INTERVIEW - J. Eckert of Genvid
-        sub_title: The Esports Observer
-        link: https://archive.esportsobserver.com/interview-j-eckert-genvid/
-        link_text: https://esportsobserver.com/interview-j-eckert-genvid/
-        #additional_links:
-            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-            #icon: fab fa-github
-            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #quote: >
-        caption: >
-          INTERVIEW: J. Eckert, Genvid – “We’re Trying to Give Studios Tools That Redefine What It Means to Have a Game Streamed”
-        description: |
-          <div style="text-align: center;"><img src="images/eso-article.png" width="400"></div>
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: Brewing Up A Conversation Podcast - J. Eckert
         sub_title: 90 Minute podcast interview from summer of 2023
         link: https://www.youtube.com/watch?v=SuVdQ-_uBo4
@@ -384,6 +367,23 @@ content:
           INTERVIEW: J. Eckert - "Life is a compounding journey"”
         description: |
           <div style="text-align: center;"><img src="images/brewing.png" width="400"></div>
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: INTERVIEW - J. Eckert of Genvid
+        sub_title: The Esports Observer
+        link: https://archive.esportsobserver.com/interview-j-eckert-genvid/
+        link_text: https://esportsobserver.com/interview-j-eckert-genvid/
+        #additional_links:
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: >
+        caption: >
+          INTERVIEW: J. Eckert, Genvid – “We’re Trying to Give Studios Tools That Redefine What It Means to Have a Game Streamed”
+        description: |
+          <div style="text-align: center;"><img src="images/eso-article.png" width="400"></div>
   #- title: Education
     #layout: list
     #content:
