@@ -72,12 +72,12 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          As a Director within the Xsolla Funding organization, an Advisor to both the Xsolla Accellerator Program as well as any game studios participating in the various Funding programs, and host of Xsolla Funding's Digital Rapid Rounds.
+          As a Director within the Xsolla Funding organization, an Advisor to both the Xsolla Accelerator Program itself as well as an Advisor and Mentor to the founders of game studios that participate in the Xsolla Accelerator as part of the program offerings, as well as host of Xsolla Funding's Digital Rapid Rounds pitching events.
         icon: fab fa-github
       - layout: left
         title: Zero IT Lab
         sub_title: Business Development & Sales freelancer
-        caption: March 2024 - Present
+        caption: Feb 2024 - Present
         link: https://zeroitlab.com
         #quote: >
           #Short description of the company (optional)
@@ -92,7 +92,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Freelance Production Management, Business Development, and general Operations consulting for early stage Game Industry startups, to help those new to this space better understand the unknown unknowns.
+          Freelance Production Management, Business Development, and general Operations consulting for early stage Game Industry and Tech startups, to help those new to this space better understand the unknown unknowns.
         icon: fab fa-github
       - layout: left
         title: Chia Network
@@ -233,6 +233,15 @@ content:
           <div style="text-align: center;"><img src="images/rivalpeak.jpg" width="400"></div>
       - layout: left
         border: weak
+        title: Legends of Runterra
+        sub_title: Riot Games
+        link: https://playruneterra.com/
+        caption: >
+          Set in the world of League of Legends, Legends of Runeterra is the strategy card game for PC and Mobile.
+        description: |
+          <div style="text-align: center;"><img src="images/lor.png" width="400"></div>
+      - layout: left
+        border: weak
         title: League of Legends
         sub_title: Riot Games
         link: https://leagueoflegends.com/
@@ -259,8 +268,17 @@ content:
           <div style="text-align: center;"><img src="images/battlefield-3.jpg" width="400"></div>
       - layout: left
         border: weak
+        title: Dead Space 3
+        sub_title: EA Games
+        link: https://deadspace.com/
+        caption: >
+          Survival horror game by Visceral Games, a studio within EA.
+        description: |
+          <div style="text-align: center;"><img src="images/deadspace3.jpg" width="400"></div>
+      - layout: left
+        border: weak
         title: |
-          Star Wars: the old Republic
+          Star Wars: the Old Republic
         sub_title: EA Games
         link: https://swtor.com/
         caption: >
@@ -296,6 +314,24 @@ content:
           <div style="text-align: center;"><img src="images/rockband3.webp" width="400"></div>
       - layout: left
         border: weak
+        title: The Beatles Rockband
+        sub_title: EA Games
+        link: https://en.wikipedia.org/wiki/The_Beatles:_Rock_Band
+        caption: >
+          2009 rythim game sensation, with a Beatles twist!
+        description: |
+          <div style="text-align: center;"><img src="images/tbrb.jpg" width="400"></div>
+      - layout: left
+        border: weak
+        title: Mass Effect 2
+        sub_title: EA Games
+        link: https://www.ea.com/games/mass-effect/mass-effect-2
+        caption: >
+          I'm Commander Shepard, and this was one of my favorite games on the Citidel.
+        description: |
+          <div style="text-align: center;"><img src="images/me2.jpg" width="400"></div>
+      - layout: left
+        border: weak
         title: Rupture
         sub_title: EA Games
         link: https://en.wikipedia.org/wiki/Rupture_(social_networking)
@@ -317,23 +353,6 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: INTERVIEW - J. Eckert of Genvid
-        sub_title: The Esports Observer
-        link: https://archive.esportsobserver.com/interview-j-eckert-genvid/
-        link_text: https://esportsobserver.com/interview-j-eckert-genvid/
-        #additional_links:
-            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-            #icon: fab fa-github
-            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #quote: >
-        caption: >
-          INTERVIEW: J. Eckert, Genvid – “We’re Trying to Give Studios Tools That Redefine What It Means to Have a Game Streamed”
-        description: |
-          <div style="text-align: center;"><img src="images/eso-article.png" width="400"></div>
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: Brewing Up A Conversation Podcast - J. Eckert
         sub_title: 90 Minute podcast interview from summer of 2023
         link: https://www.youtube.com/watch?v=SuVdQ-_uBo4
@@ -348,6 +367,23 @@ content:
           INTERVIEW: J. Eckert - "Life is a compounding journey"”
         description: |
           <div style="text-align: center;"><img src="images/brewing.png" width="400"></div>
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: INTERVIEW - J. Eckert of Genvid
+        sub_title: The Esports Observer
+        link: https://archive.esportsobserver.com/interview-j-eckert-genvid/
+        link_text: https://esportsobserver.com/interview-j-eckert-genvid/
+        #additional_links:
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: >
+        caption: >
+          INTERVIEW: J. Eckert, Genvid – “We’re Trying to Give Studios Tools That Redefine What It Means to Have a Game Streamed”
+        description: |
+          <div style="text-align: center;"><img src="images/eso-article.png" width="400"></div>
   #- title: Education
     #layout: list
     #content:
