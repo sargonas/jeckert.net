@@ -65,16 +65,6 @@ content:
     layout: list
     content:
       - layout: left
-        title: Xsolla
-        sub_title: Program Advisor - Xsolla Accelerator
-        caption: Apr 2024 - Present
-        link: https://xsolla.com
-        #quote: >
-          #Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          As a Director within the Xsolla Funding organization, an Advisor to both the Xsolla Accelerator Program itself as well as an Advisor and Mentor to the founders of game studios that participate in the Xsolla Accelerator as part of the program offerings, as well as host of Xsolla Funding's Digital Rapid Rounds pitching events.
-        icon: fab fa-github
-      - layout: left
         title: Zero IT Lab
         sub_title: Business Development & Sales freelancer
         caption: Feb 2024 - Present
@@ -85,7 +75,7 @@ content:
           A part time freelancer, handling BizDev & Partnerships for one of the world's leading Anti-Cheat technology solution providers.
         icon: fab fa-github
       - layout: left
-        title: Eckert Group Consulting
+        title: Pixel Strategy / Eckert Group Consulting
         sub_title: Managing Director
         caption: Nov 2023 - Present
         link: https://jeckert.net/consulting
@@ -93,6 +83,16 @@ content:
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Freelance Production Management, Business Development, and general Operations consulting for early stage Game Industry and Tech startups, to help those new to this space better understand the unknown unknowns.
+        icon: fab fa-github
+      - layout: left
+        title: Xsolla
+        sub_title: Program Advisor - Xsolla Accelerator
+        caption: Mar 2024 - Jan 2025
+        link: https://xsolla.com
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          As a Director within the Xsolla Funding organization, an Advisor to both the Xsolla Accelerator Program itself as well as an Advisor and Mentor to the founders of game studios that participate in the Xsolla Accelerator as part of the program offerings, as well as host of Xsolla Funding's Digital Rapid Rounds pitching events.
         icon: fab fa-github
       - layout: left
         title: Chia Network
